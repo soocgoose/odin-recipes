@@ -1,0 +1,37 @@
+* {
+	font-family: sans-serif;
+}
+
+.recipe-cover {
+	background-color: #a55a43;
+	color: white;
+}
+
+ul.recipe-contents, ol.recipe-contents {
+	background-color: #438ba5;
+}
+
+ul.recipe-process, ol.recipe-process {
+	background-color: #66a543;
+}
+
+h2.recipe-contents {
+	background-color: #438ba5;
+	color: black;
+}
+
+h2.recipe-process {
+	background-color: #66a543;
+	color: black;
+}
+
+.recipe-contents li {
+	background-color: #a59843;
+	color: black;
+}
+
+.recipe-process li {
+	background-color: #c29326;
+	color: black;
+}
+
